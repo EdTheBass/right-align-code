@@ -13,7 +13,7 @@ int main() {
 }
 ```
 
-If you run `python right-align.py input.c output.c` you'll see this.
+If you run `python right_align.py input.c output.c` you'll see this.
 
 ```
                                                                                                     #include <stdlib.h>
