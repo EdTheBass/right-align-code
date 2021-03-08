@@ -13,5 +13,3 @@ with open(sys.argv[1], "r") as inp_f:
             ra_line = " " * (120 - len(line)) + line
             to_write.append(ra_line)
         out_f.writelines(to_write)
-        out_f.close()
-    inp_f.close()
