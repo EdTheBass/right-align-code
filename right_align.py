@@ -1,7 +1,7 @@
 import sys
 
 if len(sys.argv) != 3:
-    raise Exception("Usage: python right-align.py input-file output-file.")
+    raise Exception("Usage: python right_align.py input-file output-file.")
 
 if not open(sys.argv[1], "r"):
     raise FileNotFoundError("Input file not found.")
