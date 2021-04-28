@@ -1,5 +1,4 @@
 # Right-Align-Code
-Right align go oogabooga you have lost your sanity
 
 To right-align your code, just execute the program and pass in your input and output files with `python right-align.py input-file output-file`.
 
